@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="92" viewBox="0 0 90 92">
+    <defs>
+        <circle id="b" cx="44" cy="44" r="44"/>
+        <filter id="a" width="106.8%" height="109.1%" x="-3.4%" y="-2.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.215738639 0 0 0 0 0.350106473 0 0 0 0 0.365036232 0 0 0 0.0659418706 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(1)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <circle cx="44" cy="44" r="43.5" fill="#FFF" stroke="#D4E4E6" stroke-linejoin="square"/>
+        </g>
+        <g fill="#04B1C4" fill-rule="nonzero" transform="matrix(1 0 0 -1 29 65)">
+            <path d="M14.355 36.75h3.5V42h-3.5zM25.998 33.372l2.475-2.474 3.711 3.712-2.474 2.474zM.015 34.609l3.712-3.712L6.2 33.372 2.49 37.083zM23.105 10.95v-2.2h1.75v-3.5h-1.75v-3.5A1.75 1.75 0 0 0 21.355 0h-10.5a1.75 1.75 0 0 0-1.75 1.75v3.5h-1.75v3.5h1.75v2.2a12.25 12.25 0 1 0 14 0zm-10.5-7.45h7v1.75h-7V3.5zm3.5 26.25a8.75 8.75 0 0 1-4.373-16.327c.54-.313.873-.89.873-1.515V8.75h7v3.158c0 .625.333 1.202.874 1.515a8.75 8.75 0 0 1-4.374 16.327z"/>
+            <circle cx="21.355" cy="22.75" r="1.75"/>
+        </g>
+    </g>
+</svg>
