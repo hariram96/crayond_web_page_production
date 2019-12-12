@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83">
+    <defs>
+        <linearGradient id="a" x1="49.999%" x2="49.999%" y1="100.017%" y2=".017%">
+            <stop offset="0%" stop-color="#FFFFCF"/>
+            <stop offset="100%" stop-color="#FFC4C3"/>
+        </linearGradient>
+        <linearGradient id="b" x1="-4.433%" x2="95.564%" y1="349.305%" y2="-200.425%">
+            <stop offset="0%" stop-color="#FFFFCF"/>
+            <stop offset="100%" stop-color="#FFC4C3"/>
+        </linearGradient>
+        <linearGradient id="c" x1="-92.464%" x2="7.532%" y1="833.272%" y2="283.542%">
+            <stop offset="0%" stop-color="#FFFFCF"/>
+            <stop offset="100%" stop-color="#FFC4C3"/>
+        </linearGradient>
+        <linearGradient id="d" x1="-61.512%" x2="38.488%" y1="225.177%" y2="68.107%">
+            <stop offset="0%" stop-color="#FFFFCF"/>
+            <stop offset="100%" stop-color="#FFC4C3"/>
+        </linearGradient>
+        <linearGradient id="e" x1="-33.936%" x2="66.064%" y1="86.923%" y2="42.941%">
+            <stop offset="0%" stop-color="#FFFFCF"/>
+            <stop offset="100%" stop-color="#FFC4C3"/>
+        </linearGradient>
+        <linearGradient id="f" x1="50%" x2="50%" y1="100.013%" y2=".014%">
+            <stop offset="0%" stop-color="#FFFFCF"/>
+            <stop offset="100%" stop-color="#FFC4C3"/>
+        </linearGradient>
+        <linearGradient id="g" x1="50.001%" x2="50.001%" y1="100.019%" y2=".02%">
+            <stop offset="0%" stop-color="#60A8FF"/>
+            <stop offset="100%" stop-color="#C143FF"/>
+        </linearGradient>
+        <linearGradient id="h" x1="-307.405%" x2="-207.399%" y1="3266.754%" y2="2366.704%">
+            <stop offset="0%" stop-color="#60A8FF"/>
+            <stop offset="100%" stop-color="#C143FF"/>
+        </linearGradient>
+        <linearGradient id="i" x1="-153.738%" x2="-53.732%" y1="1883.737%" y2="983.686%">
+            <stop offset="0%" stop-color="#60A8FF"/>
+            <stop offset="100%" stop-color="#C143FF"/>
+        </linearGradient>
+        <linearGradient id="j" x1="50%" x2="50%" y1="100.012%" y2=".013%">
+            <stop offset="0%" stop-color="#FFAACF"/>
+            <stop offset="100%" stop-color="#FF3F9A"/>
+        </linearGradient>
+        <linearGradient id="k" x1="50%" x2="50%" y1="100.013%" y2=".014%">
+            <stop offset="0%" stop-color="#FFAACF"/>
+            <stop offset="100%" stop-color="#FF3F9A"/>
+        </linearGradient>
+        <linearGradient id="l" x1="-145.672%" x2="-45.666%" y1="2790.458%" y2="1389.879%">
+            <stop offset="0%" stop-color="#FFAACF"/>
+            <stop offset="100%" stop-color="#FF3F9A"/>
+        </linearGradient>
+        <linearGradient id="m" x1="-46.214%" x2="53.792%" y1="1397.479%" y2="-3.105%">
+            <stop offset="0%" stop-color="#FFAACF"/>
+            <stop offset="100%" stop-color="#FF3F9A"/>
+        </linearGradient>
+        <linearGradient id="n" x1="49.995%" x2="49.995%" y1="100.033%" y2=".032%">
+            <stop offset="0%" stop-color="#FFAACF"/>
+            <stop offset="100%" stop-color="#FF3F9A"/>
+        </linearGradient>
+        <linearGradient id="o" x1="49.993%" x2="49.993%" y1="100.094%" y2=".093%">
+            <stop offset="0%" stop-color="#FFAACF"/>
+            <stop offset="100%" stop-color="#FF3F9A"/>
+        </linearGradient>
+        <linearGradient id="p" x1="-143.604%" x2="-42.663%" y1="397.373%" y2="216.206%">
+            <stop offset="0%" stop-color="#FFAACF"/>
+            <stop offset="100%" stop-color="#FF3F9A"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="nonzero">
+        <circle cx="41.5" cy="41.5" r="33.5" fill="#fff" opacity=".03"/>
+        <circle cx="41.5" cy="41.5" r="41.5" fill="#fff" opacity=".01"/>
+        <circle cx="41.5" cy="41.5" r="26.5" fill="#fff" opacity=".05"/>
+        <circle cx="41.5" cy="41.5" r="16.042" fill="#fff" opacity=".072"/>
+        <path fill="url(#a)" d="M51.813 35.77l-8.021 8.022v-9.167l3.437-3.438z"/>
+        <circle cx="56.396" cy="36.917" r="1.146" fill="url(#b)"/>
+        <circle cx="46.083" cy="25.458" r="1.146" fill="url(#c)"/>
+        <path fill="url(#d)" d="M60.234 22.766a.554.554 0 0 0-.802 0l-6.875 6.875a.554.554 0 0 0 0 .802.619.619 0 0 0 .401.172.619.619 0 0 0 .401-.172l6.875-6.875a.554.554 0 0 0 0-.802z"/>
+        <path fill="url(#e)" d="M59.833 31.76H55.25c-.344 0-.573.23-.573.573 0 .344.23.573.573.573h4.583c.344 0 .573-.229.573-.573 0-.343-.229-.573-.573-.573z"/>
+        <path fill="url(#f)" d="M38.063 40.354v9.167l-5.73 5.729v-9.167z"/>
+        <path fill="url(#g)" d="M26.604 51.813l4.584 4.583-5.73 5.729-4.583-4.583z"/>
+        <circle cx="53.531" cy="24.885" r="1" fill="url(#h)"/>
+        <circle cx="51.24" cy="40.927" r="1" fill="url(#i)"/>
+        <path fill="url(#j)" d="M32.333 46.083v9.167l-6.875 6.875-4.583-4.583z"/>
+        <path fill="url(#k)" d="M43.792 34.625v9.167l-5.73 5.729v-9.167l.86-.86z"/>
+        <circle cx="40.927" cy="30.615" r="1" fill="url(#l)"/>
+        <circle cx="54.677" cy="46.656" r="1" fill="url(#m)"/>
+        <path fill="url(#n)" d="M50.667 22.594c-.344 0-.573.229-.573.573v5.729c0 .344.229.573.573.573.343 0 .573-.23.573-.573v-5.73c0-.343-.23-.572-.573-.572z"/>
+        <path fill="url(#o)" d="M48.375 27.177c-.344 0-.573.23-.573.573v1.146c0 .344.23.573.573.573.344 0 .573-.23.573-.573V27.75c0-.344-.23-.573-.573-.573z"/>
+        <path fill="url(#p)" d="M59.661 28.38l-3.437 1.146a.573.573 0 0 0-.344.745.55.55 0 0 0 .516.4c.057 0 .114 0 .172-.056l3.437-1.146a.573.573 0 0 0 .344-.745c-.057-.287-.401-.458-.688-.344z"/>
+        <g fill="#FFF" transform="translate(16.256 17.438)">
+            <circle cx="14.359" cy="5.156" r="1.719"/>
+            <circle cx="32.119" cy="1.146" r="1.146"/>
+            <circle cx="9.203" cy="14.896" r="1.146"/>
+            <circle cx="29.255" cy="31.51" r="1.719"/>
+            <circle cx="46.442" cy="13.177" r="1"/>
+            <circle cx="1.182" cy="26.354" r="1.146"/>
+            <circle cx="48.734" cy="30.365" r="1"/>
+            <circle cx="15.505" cy="25.781" r="1"/>
+        </g>
+    </g>
+</svg>

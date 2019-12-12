@@ -1,0 +1,470 @@
+ .navbar .navbar-nav > li > a {
+    line-height: unset !important;
+    margin: unset !important;
+    margin-right: 10px !important;
+    padding-top: 10px;
+}
+body{
+  overflow-x: hidden !important;
+}
+p{
+  opacity: 1 !important;
+  font-weight: 400 !important;
+}
+.explore{
+  width: 150px;
+  border-radius: 4px;
+  /* box-shadow: 0px 2px 15px #000; */
+  line-height: 37px;
+}
+.navbar-toggle{
+  background: linear-gradient(to bottom, #4d4cff 0%, #875cd2 100%);
+  padding: 8px 9px !important;
+}
+.icon-bar{
+  background-color: #fff !important;
+}
+ .contact{
+    /* margin-bottom: 30px;
+    background-image: url(../images/envelope.png);
+    background-position: 10px 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: 5%;
+    padding-left: 9%;
+    margin-top: 30px;
+    padding-top: 0; */
+    /* border-top: 1px solid #f0f0f0; */
+    /* padding: 30px; */
+ }
+ .navbar{
+      box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+ }
+  .glyphicon{
+    color: #a2a0a0;
+    font-size: 16px;
+    font-weight: unset;
+  }
+  
+  .position_img{
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+  }
+  .positions_card{
+    margin-bottom: 40px;
+    margin-top: 25px;
+    padding: 0px 50px;
+  }
+  .positions_card button{
+    line-height: 25px !important;
+  }
+  .positions_card h4{
+    margin-top: 10px;
+  }
+  button{
+    width: 80%;
+  }
+  h1 {
+    padding: 0px !important;
+    color: #000000;
+}
+  h5{
+    margin-bottom: 0px;
+    color: #423f3f;
+  }
+  h3{
+    font-size: 2.25em;
+    line-height: 1.33;
+    font-weight: 600;
+    font-family: "Dosis", sans-serif !important;
+  }
+  h2{
+    color: #000000;
+  }
+  p{
+    color: #423f3f;
+    font-weight: 600;
+    opacity: 0.7;
+  }
+  .envelope{
+    width: 80px;
+    height: 60px;
+    float: right;
+  }
+  .carrier_details{
+    text-align: center;
+    margin: 56px 0px 0px 0px;
+  }
+  .card1{
+    text-align: center;
+    margin-top: 30px;
+  }
+  .img_look{
+    padding-top: 40px;
+        padding-right: 25px;
+  }
+  .hiring_card{
+    background-color: #8484e0;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+    padding: 45px;
+    margin-top: -75px;
+  }
+  .carousel-indicator li {
+   display: inline-block;
+    margin-right: 15px;
+    padding: 5px;
+    font-size: 24px;
+    cursor: pointer;  
+  }
+  .carousel-indicators .active{
+    color: #4d4cff;
+  }
+  .carousel-indicators li {
+     font-size: 1.25em;
+     font-family: "Dosis", sans-serif;
+     font-weight: 600;
+     width: unset !important; 
+     height: unset !important; 
+     margin-right: 20px !important; 
+     text-indent: unset !important; 
+     border: 0 !important; 
+     border-radius: unset !important; 
+  }
+  .mobile_arrow{
+    display: none;
+  }
+  .ambience_card_mobile{
+    display: none;
+  }
+  .explore:hover{
+    background-color: #f91494 !important;
+  }
+
+  .flash {
+    color: #b2b2ff !important;
+  }
+
+
+  @media only screen and (min-width: 1799px){
+    .title_of_careers {
+      /* top: 10.5% !important; */
+      bottom: 30%;
+    }
+    .our_team{
+      padding-bottom: 4% !important;
+    }
+    .stretch{
+      margin-top: 40% !important;
+     }
+     .explore{
+      box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 3px 1px -2px rgba(0,0,0,0.12)
+    }
+    .imge_width{
+      height: 520px !important;
+    }    
+  }
+  @media only screen and (min-width: 1200px) and (max-width: 1798px){
+    .stretch{
+    margin-top: 99vh !important;
+   }
+   .title_of_careers {
+    /* top: 6.5% !important; */
+    bottom: 110px;
+  }
+  .explore{
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 3px 1px -2px rgba(0,0,0,0.12)
+  }
+  .imge_width{
+    height: 520px !important;
+  }
+  }
+  @media only screen and (min-width: 992px) and (max-width: 1199px){
+    .mission_discription{
+      font-size: 20px !important;
+    }
+    .slider_discription{
+      font-size: 16px;
+    }
+    .stretch{
+    margin-top: 99vh !important;
+   }
+   .title_of_careers {
+    /* top: 7.5% !important; */
+    bottom: 110px;
+  }
+  .explore{
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 3px 1px -2px rgba(0,0,0,0.12)
+  }
+  .navbar-default{
+    padding: 27px 0px 27px 35px !important;
+  }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .title_of_careers {
+   display: none;
+  }
+  .desktop_arrow{
+    display: none;
+  }
+  .title_mobile{
+    display: block !important;
+  }
+   .carousel-indicator li {
+    font-size: 14px;
+   }
+   .ambience_card_mobile{
+    display: block;
+   }
+   .ambience_card{
+    display: none;
+   }
+   .positions_card {
+     margin-top: 25px; 
+    padding: 0px 25px;
+   }
+   .positions_card h3{
+    font-size: 18px;
+   }
+   .stretch{
+    margin-top: 60% !important;
+   }
+  }
+  @media only screen and (max-width: 426px){
+    .contact{
+      background-size: 9%;
+      padding-left: 15%;
+    }
+  }
+
+  @media only screen and (max-width: 390px){
+    .line_path{
+      width: 200px !important;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+     .title_of_careers {
+   display: none;
+  }
+  .title_mobile{
+    display: block !important;
+  }
+    .brandname_footer{
+  text-align: left !important;
+}
+.brandname_footer a img{
+  display: block;
+}
+  .title_of_careers{
+    bottom: unset !important;
+    top: 10%;
+  }
+  .title_of_careers h1{
+    font-size: 25px !important;
+  }
+  .title_of_careers button{
+    width: 118px !important;
+    padding: 5px !important;
+  }
+  .stretch{
+    margin-top: 68% !important;
+  }
+  .navbar{
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        padding-top: 18px !important;
+        padding-bottom: 10px !important;
+  }
+  .menus{
+    position: unset !important; 
+  display: unset !important;
+  }
+  .menus a { 
+    padding: 5px 15px !important;
+  }
+  #myNavbar{
+    border-color: #fff;
+  }
+  .navbar-right{
+    margin-top: 0px !important;
+    margin-bottom: 15px !important;
+  }
+  .start_mob{
+    display: inline-block !important;
+    margin-left: 5px !important;
+    }
+    .footer-section{
+      padding: 0px 15px !important;
+    }
+ .mobile_arrow .left{
+    position: inherit;
+    top: 1px;
+    padding: 7px 9px;
+    border-radius: 50px;
+    /* right: 96px; */
+    right: 70px;
+    z-index: 12;
+    
+  }
+  .mobile_arrow .left:hover{
+    background-color: #59595924;
+  }
+  .mobile_arrow .right {
+    position: inherit;
+    top: 1px;
+    right: 0px;
+    padding: 7px 9px;
+    border-radius: 50px;
+    z-index: 12;
+  }
+  .mobile_arrow .right:hover{
+    background-color: #59595924;
+  }
+  .mobile_arrow{
+    position: absolute;
+    right: 30px;
+    top: 396px;
+    display: block;
+  }
+  .desktop_arrow{
+    display: none;
+  }
+  .carousel_menu{
+    display: none;
+  }
+  .event_section{
+    padding: 0; 
+  }
+  .event_section img{
+       width: 75px; 
+  }
+  .job_type {
+    padding: 35px 0px !important;
+  }
+  .ambience_card{
+    display: none;
+  }
+  .ambience_card_mobile{
+    display: block;
+  }
+  .hiring_card{
+    padding: 20px 15px;
+  }
+  .positions_card {
+    margin-top: 25px;
+    padding: 0px;
+  }
+  .positions_card h3{
+    font-size: 18px;
+  }
+ }
+
+
+
+ figure{
+  margin: 0;
+  position: relative;
+}
+  
+ .video_title{
+    position: absolute;
+    /* top: 50px; */
+    /* left: 20px; */
+    padding: 5px 10px 5px 5px;
+    text-align: center;
+    bottom: 200px;
+  }
+    
+    
+video{
+  width: 100%;
+  max-width: 100%;
+}
+  
+
+.stretch{
+  /*height: 2000px;*/
+  background: #fff;
+  min-height: 100%;
+  min-width: 100%;
+  background-size: cover;
+ /* margin-top: 800px;*/
+}
+  
+  h1{
+
+    padding: 20px;
+  }
+
+.hero-wrapper{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  height: auto;
+  width: auto;
+  min-height: 100%;
+  min-width: 100%;
+  z-index: -9999;
+}
+.title_of_careers{
+    position: absolute;
+    text-align: center;
+    /* top: 9%; */
+}
+.menus{
+   position: absolute;
+   left: 0px;
+   height: 40px;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+.get_start{
+  color: #278ffd !important;
+  padding: 10px 25px !important;
+}
+.get_start:hover {
+  color: #fff !important;
+  border-radius: 4px !important;
+  background-color: #4d4cff !important;
+}
+.navbar{
+  position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+figure {
+    margin: 0;
+    position: relative;
+    /* top: 60px; */
+    }
+.social li a :hover{
+  opacity: 1;
+}
+    .social li a{
+    color: #ff6866;
+    background: #fff;
+    opacity: .8;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 32px;
+}
+.social li{
+  margin-right: 10px;
+}
+.copyright-text{
+  font-size: 14px;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 18px;
+}
+.brandname_footer{
+  text-align: center;
+}

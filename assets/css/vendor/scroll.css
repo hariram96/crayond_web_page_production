@@ -1,0 +1,62 @@
+/* Scroll to top button */
+/* line 93, sass/components/_base.sass */
+.scrollToTop {
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+  z-index: 900;
+  width: 64px;
+  height: 64px;
+}
+
+/* line 100, sass/components/_base.sass */
+.scrollToTop .scrollToTop-circle {
+  background-color: #fff;
+  -webkit-border-radius: 100%;
+          border-radius: 100%;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  bottom: -200px;
+  text-align: center;
+  cursor: pointer;
+  -webkit-transition: all .7s ease;
+  transition: all .7s ease;
+}
+
+/* line 111, sass/components/_base.sass */
+.scrollToTop .scrollToTop-icon {
+  background-image: url("images/rocket-2.png");
+  background-size: 50px 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 64px;
+  height: 64px;
+  font-size: 2em;
+  line-height: 64px;
+  -webkit-transition: all .75s ease;
+  transition: all .75s ease;
+}
+
+/* line 121, sass/components/_base.sass */
+.scrollToTop.show .scrollToTop-circle {
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  bottom: 0;
+}
+
+/* line 123, sass/components/_base.sass */
+.scrollToTop.show .scrollToTop-icon {
+  display: block !important;
+}
+
+/* line 126, sass/components/_base.sass */
+.scrollToTop.animated .scrollToTop-circle {
+  bottom: -100px;
+}
+
+/* line 128, sass/components/_base.sass */
+.scrollToTop.animated .scrollToTop-icon {
+  -webkit-transform: translateY(-1000px);
+      -ms-transform: translateY(-1000px);
+          transform: translateY(-1000px);
+}
